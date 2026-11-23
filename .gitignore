@@ -1,0 +1,6 @@
+dataset/
+chest_xray/
+.DS_Store
+__pycache__/
+*.pyc
+venv/
