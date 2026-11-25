@@ -1,0 +1,10 @@
+[server]
+maxUploadSize = 10        # MB — enforced server-side, matches the UI label
+
+[theme]
+base = "light"
+backgroundColor = "#F6F4EE"
+secondaryBackgroundColor = "#EFEBE2"
+primaryColor = "#0E9F8E"
+textColor = "#14213D"
+font = "sans serif"

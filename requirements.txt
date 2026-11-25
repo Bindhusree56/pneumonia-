@@ -5,4 +5,7 @@ matplotlib
 seaborn
 scikit-learn
 Pillow
-streamlit
+streamlit>=1.33  # st.html() used for CSS/HTML injection
+reportlab
+opencv-python
+transformers
